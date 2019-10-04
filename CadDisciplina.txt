@@ -1,6 +1,6 @@
      Cadastro de Disciplina
 
 
-CÃ³digo:5454
-Disciplina: AutomaÃ§Ã£o
-Curso: C.C
+Código:5454
+Disciplina: Automação
+
